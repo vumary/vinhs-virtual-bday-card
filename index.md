@@ -22,5 +22,5 @@ Testing:
 
 > Happy Birthday to You
 > Happy Birthday to You
-> Happy Birthday Dear (name)
+> Happy Birthday Dear Vinh
 > Happy Birthday to You.
