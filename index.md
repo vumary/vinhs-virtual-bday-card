@@ -6,3 +6,14 @@ Hello World
 
 *More specifically, today is my brother's birthday!*
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Birthday_candles.jpg/1200px-Birthday_candles.jpg)
+
+---
+
+Testing:
+1. one
+2. two
+3. three
+
+* one
+* two
+* three
