@@ -9,10 +9,11 @@ Hello World
 
 ---
 
-Testing:
-1. one
-2. two
-3. three
+Cool stuff about Vinh:
+1. He meditates so he's super chill
+2. He is a very productive individual
+3. I guess he's handsome too ¯\_(ツ)_/¯
+
 
 * one
 * two
