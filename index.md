@@ -16,6 +16,7 @@ Vinh's goals:
 * Finish yard work
 * Be more productive
 * Have less friends LOL
+* To not go out on Thursdays
 
 ---
 
