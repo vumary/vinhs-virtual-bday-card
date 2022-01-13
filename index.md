@@ -1,6 +1,4 @@
-Hello World
-
-# Testing out Markdown!
+# Today is a very important day!
 ## Date: January 12th, 2022
 **Day of the week: Wednesday**
 
