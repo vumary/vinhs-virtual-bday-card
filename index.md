@@ -14,10 +14,10 @@ Cool stuff about Vinh:
 2. He is a very productive individual
 3. I guess he's handsome too ¯\_(ツ)_/¯
 
-
-* one
-* two
-* three
+Vinh's goals:
+* Finish yard work
+* Be more productive
+* Have less friends LOL
 
 ---
 
